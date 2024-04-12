@@ -33,15 +33,6 @@ A: Yes!  DM me on Discord or leave a comment and I'll address you ASAP.
 TrahsPanda for XML, C#, art and workshop page
 https://www.youtube.com/channel/UClQ1YDIMkgu4HuOCXINzYdA]Rarr for commissioning me
 
-![Image](https://imgur.com/6OoDfkw.png)
-
-https://ko-fi.com/trahspanda]![Image](https://imgur.com/hmFAQgv.png)
-
-https://discord.gg/m9K7rWp]![Image](https://imgur.com/x1Qm5aM.png)
-
-https://www.patreon.com/trahspandamods]![Image](https://imgur.com/9Dl9SL7.png)
-
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
@@ -54,4 +45,7 @@ https://www.patreon.com/trahspandamods]![Image](https://imgur.com/9Dl9SL7.png)
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
 
+
+
+https://steamcommunity.com/sharedfiles/filedetails/changelog/3050308608]![Image](https://img.shields.io/github/v/release/emipa606/RarrsManhuntingRatShells?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
 
