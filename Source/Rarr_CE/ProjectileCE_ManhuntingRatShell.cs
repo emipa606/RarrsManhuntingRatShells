@@ -10,7 +10,7 @@ public class ProjectileCE_ManhuntingRatShell : ProjectileCE
 
     public override void Impact(Thing hitThing)
     {
-        var faction = FactionUtility.DefaultFactionFrom(rat.defaultFactionType);
+        var faction = FactionUtility.DefaultFactionFrom(rat.defaultFactionDef);
         // Spawns 5 rats
         for (var i = 0; i < 5; i++)
         {

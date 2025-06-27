@@ -9,7 +9,7 @@ public class Projectile_ManhuntingRatShell : Bullet
 
     protected override void Impact(Thing hitThing, bool blockedByShield = false)
     {
-        var faction = FactionUtility.DefaultFactionFrom(rat.defaultFactionType);
+        var faction = FactionUtility.DefaultFactionFrom(rat.defaultFactionDef);
         // Spawns 5 rats
         for (var i = 0; i < 5; i++)
         {

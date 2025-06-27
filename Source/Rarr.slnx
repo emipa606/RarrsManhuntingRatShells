@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="Rarr/Rarr.csproj" />
+  <Project Path="Rarr_CE/Rarr_CE.csproj" />
+</Solution>
